@@ -1,5 +1,10 @@
 [
   {
+    "name": "WEB",
+    "color": "006B75",
+    "description": "WEB"
+  },
+  {
     "name": "Bug",
     "color": "B60205",
     "description": "Something isn't working"
